@@ -1,0 +1,2 @@
+# VisualFileInfo
+Visual File Information
